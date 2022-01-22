@@ -1,6 +1,5 @@
-.idea/
+.idea*/
 cmake-build-*/
-.idea/**/mongoSettings.xml
 *.iws
 out/
 .idea_modules/
@@ -10,8 +9,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
-.idea/httpRequests
-.idea/caches/build_file_checksums.ser
 .Python
 [Bb]in
 [Ii]nclude
@@ -113,3 +110,4 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
+poetry.lock
